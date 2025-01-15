@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+downloades/
+vector_db/
+*.wav
+*.mp3
+*.m4a
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE & System
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
